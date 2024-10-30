@@ -251,9 +251,9 @@
   <Data key="DataVersionKey" value="2" />
   <Group key="DWRInstGuidMapping">
     <Group key="Pin">
-      <Data key="3d5a8cd8-9ade-4f2a-a80c-a6c0feda242f" value="Pin_2" />
-      <Data key="8d318d8b-cf7b-4b6b-b02c-ab1c5c49d0ba" value="Pin_1" />
-      <Data key="c4cac5da-c95d-4d8b-a49d-c056e5e9951d/ed092b9b-d398-4703-be89-cebf998501f6" value="LCD_Char_1_LCDPort" />
+      <Data key="3d5a8cd8-9ade-4f2a-a80c-a6c0feda242f" value="P3_2" />
+      <Data key="8d318d8b-cf7b-4b6b-b02c-ab1c5c49d0ba" value="P3_3" />
+      <Data key="c4cac5da-c95d-4d8b-a49d-c056e5e9951d/ed092b9b-d398-4703-be89-cebf998501f6" value="LCD_LCDPort" />
     </Group>
   </Group>
   <Group key="EEPROM">
@@ -3342,12 +3342,12 @@
   <Group key="Pin2">
     <Group key="3d5a8cd8-9ade-4f2a-a80c-a6c0feda242f">
       <Group key="0">
-        <Data key="Port Format" value="3,3" />
+        <Data key="Port Format" value="3,5" />
       </Group>
     </Group>
     <Group key="8d318d8b-cf7b-4b6b-b02c-ab1c5c49d0ba">
       <Group key="0">
-        <Data key="Port Format" value="3,2" />
+        <Data key="Port Format" value="3,3" />
       </Group>
     </Group>
     <Group key="c4cac5da-c95d-4d8b-a49d-c056e5e9951d/ed092b9b-d398-4703-be89-cebf998501f6">

@@ -251,9 +251,11 @@
   <Data key="DataVersionKey" value="2" />
   <Group key="DWRInstGuidMapping">
     <Group key="Pin">
-      <Data key="3d5a8cd8-9ade-4f2a-a80c-a6c0feda242f" value="P3_2" />
+      <Data key="3d5a8cd8-9ade-4f2a-a80c-a6c0feda242f" value="P3_5" />
       <Data key="8d318d8b-cf7b-4b6b-b02c-ab1c5c49d0ba" value="P3_3" />
       <Data key="c4cac5da-c95d-4d8b-a49d-c056e5e9951d/ed092b9b-d398-4703-be89-cebf998501f6" value="LCD_LCDPort" />
+      <Data key="da121c47-aad5-4d12-9a05-64fda123fcb6" value="P12_5" />
+      <Data key="e851a3b9-efb8-48be-bbb8-b303b216c393" value="P12_3" />
     </Group>
   </Group>
   <Group key="EEPROM">
@@ -3371,6 +3373,16 @@
       </Group>
       <Group key="6">
         <Data key="Port Format" value="2,6" />
+      </Group>
+    </Group>
+    <Group key="da121c47-aad5-4d12-9a05-64fda123fcb6">
+      <Group key="0">
+        <Data key="Port Format" value="12,5" />
+      </Group>
+    </Group>
+    <Group key="e851a3b9-efb8-48be-bbb8-b303b216c393">
+      <Group key="0">
+        <Data key="Port Format" value="12,3" />
       </Group>
     </Group>
   </Group>
